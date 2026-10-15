@@ -39,9 +39,9 @@ dev = [
 lightwave-mcp = "lightwave_mcp.server:main"
 
 [project.urls]
-Homepage = "https://github.com/Kartaverse/lightwave-mcp"
-Repository = "https://github.com/Kartaverse/lightwave-mcp"
-Issues = "https://github.com/Kartaverse/lightwave-mcp/issues"
+Homepage = "https://github.com/Lightfielder/lightwave-mcp"
+Repository = "https://github.com/Lightfielder/lightwave-mcp"
+Issues = "https://github.com/Lightfielder/lightwave-mcp/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/lightwave_mcp"]
