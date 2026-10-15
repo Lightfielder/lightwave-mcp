@@ -37,11 +37,11 @@ Here are a few views of "lightwave-mcp" in action using the [Cursor](https://cur
 *  Clone this repository:
 
 ```bash
-git clone https://github.com/Kartaverse/lightwave-mcp.git
+git clone https://github.com/Lightfielder/lightwave-mcp.git
 cd lightwave-mcp
 ```
 
-*  Alternatively, you can click on the [lightwave-mcp](https://github.com/Kartaverse/lightwave-mcp) GitHub repo's green "Code" button and select the "Download ZIP" button. You will need to manually expand the "lightwave-mcp-master.zip" archive. Rename the folder from "lightwave-mcp-master" to "lightwave-mcp".
+*  Alternatively, you can click on the [lightwave-mcp](https://github.com/Lightfielder/lightwave-mcp) GitHub repo's green "Code" button and select the "Download ZIP" button. You will need to manually expand the "lightwave-mcp-master.zip" archive. Rename the folder from "lightwave-mcp-master" to "lightwave-mcp".
 
 ![GitHub Download Code Button](docs/images/github-code-button.png)
 
