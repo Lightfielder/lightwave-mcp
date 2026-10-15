@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An MCP server for controlling LightWave3D Modeler and Layout through the native command port interface",
   "author": "LightWave Community",
-  "repository": "https://github.com/Kartaverse/lightwave-mcp",
+  "repository": "https://github.com/Lightfielder/lightwave-mcp",
   "protocol": "stdio",
   "languages": ["python"],
   "platforms": ["darwin", "windows", "linux"],
